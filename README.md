@@ -23,7 +23,6 @@ $ docker run -p 80:80 --name c1  -d ev237
 
 ```mermaid
 
-sequenceDiagram
 ev237/
 ├── Dockerfile
 ├── html
